@@ -1,12 +1,11 @@
 # Hola 👋, Soy Hermann
 
 Bienvenido a mi perfil, soy desarrollador web con más de 5 años de experiencia.
-Actualmente estoy formandome como Desarrollador de Software / Full-Stack Developer.
+Desarrollador de Software / Full-Stack Developer.
 
 ## 🚀 Sobre mí
 
 - 🎓 Programador autodidacta desde 2016
-- 🌱 Actualmente formandome en [4Geeks Academy](https://4geeksacademy.com/)
 - 🧑‍💻 Trabajo en mi empresa de Marketing Digital
 
 ## 🛠️ Tecnologías y Herramientas
