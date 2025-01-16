@@ -36,7 +36,6 @@ Automatizo despliegues, optimizo procesos de integración continua y orquesto en
 
 Diseño, optimización y administración de bases de datos, asegurando integridad y rendimiento para grandes volúmenes de datos.
 
----
 
 ## Contacto
 - 🌐 [hermannjames.com](https://hermannjames.com)
@@ -45,10 +44,3 @@ Diseño, optimización y administración de bases de datos, asegurando integrida
 ---
 
 Gracias por visitar mi perfil. Siempre busco colaborar en proyectos técnicos desafiantes.
-
-
-
----
-
-Gracias por visitar mi perfil. Siempre busco colaborar en proyectos técnicos desafiantes.
-
