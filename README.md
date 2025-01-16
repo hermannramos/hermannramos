@@ -39,8 +39,7 @@ Diseño, optimización y administración de bases de datos, asegurando integrida
 ---
 
 ## Contacto
-- 🌐 [hermannjames.com/contact](https://hermannjames.com/contact)
-- 📧 [hermannhassai@gmail.com](mailto:hermannhassai@gmail.com)
+- 🌐 [hermannjames.com](https://hermannjames.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hermann-james)
 
 ---
