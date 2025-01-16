@@ -1,21 +1,55 @@
-# Hola 👋, Soy Hermann
+# Hola y Bienvenido a mi Perfil
 
-Bienvenido a mi perfil, soy desarrollador web con más de 5 años de experiencia.
-Desarrollador de Software / Full-Stack Developer.
+Soy Hermann James, un **Desarrollador de Software Full Stack** con experiencia en procesos DevOps y gestión de Bases de Datos. Más de 4 años cumpliendo objetivos clave para diversas empresas que han confiado en mis habilidades como Desarrollador Web. Experiencia en liderazgo, trabajo en equipo y emprendimiento.
 
-## 🚀 Sobre mí
+## 🌐 [Portafolio Profesional](https://hermannjames.com)
+Explora proyectos destacados y tecnologías que utilizo en [hermannjames.com](https://hermannjames.com).
 
-- 🎓 Programador autodidacta desde 2016
-- 🧑‍💻 Trabajo en mi empresa de Marketing Digital
+## Tecnologías
 
-## 🛠️ Tecnologías y Herramientas
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Frontend | Backend | DevOps | Herramientas de Desarrollo |
-| -------- | ------- | ------ | -------------------------- |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | | |
-|  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | | |
-|  | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | | |
+Trabajo en la creación de interfaces interactivas, optimizadas y accesibles, que priorizan tanto la estética como la experiencia del usuario.
+
+### **Backend**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+Diseño y desarrollo de APIs robustas, servicios backend escalables y sistemas que cumplen con los más altos estándares de rendimiento.
+
+### **DevOps**
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+Automatizo despliegues, optimizo procesos de integración continua y orquesto entornos en la nube para garantizar estabilidad y escalabilidad.
+
+### **Bases de Datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+Diseño, optimización y administración de bases de datos, asegurando integridad y rendimiento para grandes volúmenes de datos.
+
+---
+
+## Contacto
+- 🌐 [hermannjames.com/contact](https://hermannjames.com/contact)
+- 📧 [hermannhassai@gmail.com](mailto:hermannhassai@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hermann-james)
+
+---
+
+Gracias por visitar mi perfil. Siempre busco colaborar en proyectos técnicos desafiantes.
+
+
+
+---
+
+Gracias por visitar mi perfil. Siempre busco colaborar en proyectos técnicos desafiantes.
 
