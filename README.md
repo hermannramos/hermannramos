@@ -1,4 +1,4 @@
-# Hola y Bienvenido a mi Perfil
+# Hola 👋, ¡bienvenid@ a mi perfil!
 
 Soy Hermann James, un **Desarrollador de Software Full Stack** con experiencia en procesos DevOps y gestión de Bases de Datos. Más de 4 años cumpliendo objetivos clave para diversas empresas que han confiado en mis habilidades como Desarrollador Web. Experiencia en liderazgo, trabajo en equipo y emprendimiento.
 
